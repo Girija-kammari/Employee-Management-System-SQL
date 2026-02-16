@@ -25,10 +25,7 @@ It manages employee records, departments, payroll, qualifications, and leave tra
 - Payroll summaries and salary benchmarking
 - Leave frequency analysis
 
-## 🛠 Tools Used
+## Tools Used
 - MySQL
 - MySQL Workbench
 - SQL (DDL, DML, Constraints, Joins, Window Functions)
-
-## 👩‍💻 Author
-Girija Achari
